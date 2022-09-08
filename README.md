@@ -31,11 +31,3 @@
 
 ### :mag_right: Связаться со мной:
 [<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram" alt="Telegram logo" title="Telegram" height="28" />](https://t.me/vladimir_wd)
-
-### :electron: Выполнено на React:
-<a href="https://github.com/ru39391/mesto-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ru39391&repo=mesto-react&theme=react" />
-</a>
-<a href="https://github.com/ru39391/react-mesto-auth">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ru39391&repo=react-mesto-auth&theme=react" />
-</a>
