@@ -1,6 +1,6 @@
 ## Привет! :wave:
 
-Меня зовут Владимир, я веб-разработчик. Сейчас работаю в **[Симбиозис.Лаб](https://symbiosislab.ru/)**
+Меня зовут Владимир, я занимаюсь веб-разработкой.
 
 [![Текущая статистика](https://github-readme-stats.vercel.app/api?username=ru39391&show_icons=true&count_private=true&hide=stars,issues,contribs&theme=buefy)](https://github.com/ru39391?tab=repositories)
 
