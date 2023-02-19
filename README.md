@@ -16,15 +16,15 @@
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5" alt="HTML5 logo" title="HTML5" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" alt="JavaScript logo" title="JavaScript" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js" alt="Vue.js logo" title="Vue.js" height="28" />&nbsp;
+<img src="https://img.shields.io/badge/React-282C34?logo=react" alt="React logo" title="React" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/Webpack-282C34?logo=webpack" alt="Webpack logo" title="Webpack" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap" alt="Bootstrap logo" title="Bootstrap" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/MODX-282C34?logo=modx" alt="MODX logo" title="MODX" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/git-282C34?logo=git" alt="git logo" title="git" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/Figma-282C34?logo=figma" alt="Figma logo" title="Figma" height="28" />&nbsp;
 
-### :open_book: Изучаю сейчас:
-<img src="https://img.shields.io/badge/React-282C34?logo=react" alt="React logo" title="React" height="28" />&nbsp;
+### :open_book: Есть небольшое погружение:
+<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js" alt="Vue.js logo" title="Vue.js" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js" alt="Node.js logo" title="Node.js" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/Express-282C34?logo=express" alt="Express.js logo" title="Express.js" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb" alt="MongoDB logo" title="MongoDB" height="28" />&nbsp;
@@ -33,6 +33,9 @@
 [<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram" alt="Telegram logo" title="Telegram" height="28" />](https://t.me/vladimir_wd)
 
 ### :electron: Выполнено на React:
+<a href="https://github.com/ru39391/serverless-chat-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ru39391&repo=serverless-chat-app&theme=react" />
+</a>
 <a href="https://github.com/ru39391/orders-stat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ru39391&repo=orders-stat&theme=react" />
 </a>
