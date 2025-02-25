@@ -6,7 +6,7 @@
 
 Начал работать с вебом достаточно давно, когда CMS были основным инструментом. Долгое время использовал в работе MODX Revolution. Сейчас в основном занимаюсь фронтендом, работаю с Vue и React.
 
-[![Чаще всего использую](https://github-readme-stats.vercel.app/api/top-langs/?username=ru39391&layout=compact&hide=html&theme=buefy)](https://github.com/ru39391?tab=repositories)
+[![Чаще всего использую](https://github-readme-stats.vercel.app/api/top-langs/?username=ru39391&layout=compact&hide=html,css&theme=buefy)](https://github.com/ru39391?tab=repositories)
 
 ### :hammer_and_wrench: Использую инструменты и технологии:
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" alt="JavaScript logo" title="JavaScript" height="28" />&nbsp;
