@@ -1,31 +1,19 @@
 ## Привет! :wave:
 
-Меня зовут Владимир, я занимаюсь веб-разработкой.
+Меня зовут Владимир, я занимаюсь фронтенд-разработкой. Доступен для связи в телеграм https://t.me/vladimir_wd
 
-[![Текущая статистика](https://github-readme-stats.vercel.app/api?username=ru39391&show_icons=true&count_private=true&hide=stars,issues,contribs&theme=buefy)](https://github.com/ru39391?tab=repositories)
-
-Начал работать с вебом достаточно давно, когда CMS были основным инструментом. Долгое время использовал в работе MODX Revolution. Сейчас в основном занимаюсь фронтендом, работаю с Vue и React.
+### :hammer_and_wrench: Использую инструменты и технологии:
+![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=282C34&style=for-the-badge)
+![](https://img.shields.io/badge/Typescript-3178c6?logo=typescript&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/React-282C34?logo=react&style=for-the-badge)
+![](https://img.shields.io/badge/Vue.js-42B883?logo=vue.js&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Vite-3a5ccc?logo=vite&logoColor=f6f6f7&style=for-the-badge)
+![](https://img.shields.io/badge/Webpack-eaf8ff?logo=webpack&style=for-the-badge)
+![](https://img.shields.io/badge/MUI-0061C2?logo=mui&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Bootstrap-712cf9?logo=Bootstrap&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/PUG-a86454?logo=pug&logoColor=fcf8e3&style=for-the-badge)
+![](https://img.shields.io/badge/Sass-BF3F7F?logo=sass&logoColor=white&style=for-the-badge)
 
 [![Чаще всего использую](https://github-readme-stats.vercel.app/api/top-langs/?username=ru39391&layout=compact&hide=html,css&theme=buefy)](https://github.com/ru39391?tab=repositories)
 
-### :hammer_and_wrench: Использую инструменты и технологии:
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" alt="JavaScript logo" title="JavaScript" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/React-282C34?logo=react" alt="React logo" title="React" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js" alt="Vue.js logo" title="Vue.js" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/PUG-282C34?logo=pug" alt="PUG logo" title="PUG" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/Sass-282C34?logo=sass" alt="Sass logo" title="Sass" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5" alt="HTML5 logo" title="HTML5" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/Webpack-282C34?logo=webpack" alt="Webpack logo" title="Webpack" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap" alt="Bootstrap logo" title="Bootstrap" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/MODX-282C34?logo=modx" alt="MODX logo" title="MODX" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/git-282C34?logo=git" alt="git logo" title="git" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/Figma-282C34?logo=figma" alt="Figma logo" title="Figma" height="28" />&nbsp;
-
-### :open_book: Есть небольшое погружение:
-<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js" alt="Node.js logo" title="Node.js" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/Express-282C34?logo=express" alt="Express.js logo" title="Express.js" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb" alt="MongoDB logo" title="MongoDB" height="28" />&nbsp;
-
-### :mag_right: Связаться со мной:
-[<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram" alt="Telegram logo" title="Telegram" height="28" />](https://t.me/vladimir_wd)
+[![Текущая статистика](https://github-readme-stats.vercel.app/api?username=ru39391&show_icons=true&count_private=true&hide=stars,issues,contribs&theme=buefy)](https://github.com/ru39391?tab=repositories)
