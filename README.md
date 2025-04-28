@@ -2,7 +2,7 @@
 
 Меня зовут Владимир, я занимаюсь фронтенд-разработкой. Доступен для связи в телеграм https://t.me/vladimir_wd
 
-### :hammer_and_wrench: Использую инструменты и технологии:
+### Использую инструменты и технологии:
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=282C34&style=for-the-badge)
 ![](https://img.shields.io/badge/Typescript-3178c6?logo=typescript&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/React-282C34?logo=react&style=for-the-badge)
